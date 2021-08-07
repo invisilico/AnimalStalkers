@@ -1,6 +1,9 @@
-# AnimalStalkers
+# Animal Stalkers
 
-NMA DL 2021 "project"
+![](https://github.com/invisilico/AnimalStalkers/blob/main/Screenshot_35.png)
+This absolutely lovely logo was made by Omika
+
+Neuromatch Academy Deep Learning 2021 "project"
 
 https://miro.com/app/board/o9J_l4VUKCU=/
 
