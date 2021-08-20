@@ -5,7 +5,13 @@ This absolutely lovely logo was made by Omika
 
 Neuromatch Academy Deep Learning 2021 "project"
 
+Miro-board:
+
 https://miro.com/app/board/o9J_l4VUKCU=/
+
+presentation:
+
+https://docs.google.com/presentation/d/1HXgEYDQo-EB-exz7lK_onHCxwxtid520jpX0kqAS3-8/edit?usp=sharing
 
 Current Plan
 
